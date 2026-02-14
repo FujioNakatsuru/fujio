@@ -3,12 +3,12 @@ Fujio
 This page is a hub to my online work.
 
 ## Streams
-- Twitch — Live streams and past broadcasts. https://www.twitch.tv/fujio_nakatsuru
+- [Twitch](https://www.twitch.tv/fujio_nakatsuru) — Live streams and past broadcasts.
 
 ## Archive
-- Stream Log — A record of games I’ve streamed or played. https://fujionakatsuru.github.io/stream-log/
+- [Stream Log](https://fujionakatsuru.github.io/stream-log/) — A record of games I’ve streamed or played.
 
 ## Other Links
-- YouTube — Stream archives and playlists. https://www.youtube.com/@Fujio_Nakatsuru/playlists
-- X — Stream updates, notes, and photos. https://x.com/fujio_nakatsuru
-- Flickr — Photo archive. https://www.flickr.com/photos/204096828@N08/
+- [YouTube](https://www.youtube.com/@Fujio_Nakatsuru/playlists) — Stream archives and playlists.
+- [ X ](https://x.com/fujio_nakatsuru) — Stream updates, notes, and photos.
+- [Flickr](https://www.flickr.com/photos/204096828@N08/) — Photo archive.
