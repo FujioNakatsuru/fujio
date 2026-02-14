@@ -1,6 +1,6 @@
 Fujio
 
-This page is a hub to my online work.
+This page is a index to my online work.
 
 ## Streams
 - [Twitch](https://www.twitch.tv/fujio_nakatsuru) — Live streams and past broadcasts.
