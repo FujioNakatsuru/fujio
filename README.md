@@ -7,7 +7,7 @@ It does not depend on relationships.
 It maintains structure.  
 It prioritizes long-term continuity.
 
-This repository exists to document that design philosophy.
+This repository documents the evolving design philosophy of Fujio.
 
 No response is assumed.  
 No validation is required.
