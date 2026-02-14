@@ -1,6 +1,6 @@
 Fujio
 
-This page is a static reference to my online presence.
+This page is a hub to my online work.
 
 ## Streams
 - Twitch Live streams and past broadcasts. https://www.twitch.tv/fujio_nakatsuru
